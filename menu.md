@@ -7,7 +7,7 @@ nav: true
 
 <h1 align="center"><span style="color:orange;"><b>menu</b></span></h1>
 
-<p align="center"><b>SPECIAL DEAL: ALL ITEMS ARE FREE</b></p>
+<p align="center"><b>SPECIAL DEAL: ALL ITEMS ARE $7</b></p>
 
 At Dan Dalandan, we celebrate the vibrant and refreshing flavors of fruits, 
 crafting delicious dishes that not only tantalize your taste buds but also 
