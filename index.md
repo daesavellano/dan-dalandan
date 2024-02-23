@@ -15,16 +15,6 @@ offers a unique culinary experience where every dish is a celebration of health 
 <img src="https://github.com/daesavellano/dan-dalandan/assets/20417724/0c01da71-200b-4250-b76b-7c93127b4c47" alt="mary-potoplyak-zhW1-frW6bY-unsplash" width="300">
 </p>
 
-## <span style="color:orange">**location**</span>
-63 Katipunan Avenue, Pittsburgh, PA 15213
-
-## <span style="color:orange">**hours**</span>
-- Monday - Thursday: 10:00 AM - 8:00 PM
-- Friday: 10:00 AM - 10:00 PM
-- Saturday: 9:00 AM - 10:00 PM
-- Sunday: 9:00 AM - 7:00 PM
-<br>*Hours vary on/around holidays - Will be posted on the gram, FOLLOW US! @dandalandan*
-
 ## <span style="color:orange">**reviews**</span>
 >*★★★★★ "Absolutely love Dan Dalandan! The fruit-based dishes are not only delicious but also incredibly healthy. The smoothies are a must-try – so refreshing! Plus, the atmosphere is cozy and welcoming. Definitely coming back!"* - Emily M.
 
