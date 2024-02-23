@@ -4,7 +4,7 @@ title: "Dan Dalandan"
 ---
 ---
 
-<span style="color:orange"><h1 align="center">Where Freshness Meets Flavor</h1></span>
+<h1 align="center"><span style="color:orange">Where Freshness Meets Flavor</span></h1>
 
 At Dan Dalandan, we celebrate the vibrant and refreshing flavors of fruits, 
 crafting delicious dishes that not only tantalize your taste buds but also 
