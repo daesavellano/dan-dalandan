@@ -4,7 +4,7 @@ title: "Dan Dalandan"
 ---
 ---
 
-# Where Freshness Meets Flavor
+# <span style="color:orange">Where Freshness Meets Flavor</span>
 At Dan Dalandan, we celebrate the vibrant and refreshing flavors of fruits, 
 crafting delicious dishes that not only tantalize your taste buds but also 
 nourish your body. Nestled in the heart of Pittsburgh, PA our cozy restaurant 
@@ -12,10 +12,10 @@ offers a unique culinary experience where every dish is a celebration of health 
 
 <img src="https://github.com/daesavellano/dan-dalandan/assets/20417724/0c01da71-200b-4250-b76b-7c93127b4c47" alt="mary-potoplyak-zhW1-frW6bY-unsplash" width="300">
 
-## <span style="color:orange">Location:</span>
+## <span style="color:orange">Location</span>
 63 Katipunan Avenue, Pittsburgh, PA 15213
 
-## <span style="color:orange">Hours:</span>
+## <span style="color:orange">Hours</span>
 - Monday - Thursday: 10:00 AM - 8:00 PM
 - Friday: 10:00 AM - 10:00 PM
 - Saturday: 9:00 AM - 10:00 PM
